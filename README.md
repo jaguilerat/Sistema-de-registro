@@ -32,3 +32,12 @@ Este comando deja un comentario al comit que se esta haciendo
 ``` git push ```
 
 Este comando sube los cambios a github
+
+``` git log --oneline ```
+
+Podemos ver una version a restaurar dentro del proyecto
+
+
+``` git restore --source  315059c ```
+
+con el comando git restore -- source Hash, se puede restaurar una versión anterior de un archivo
