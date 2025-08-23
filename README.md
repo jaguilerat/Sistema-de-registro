@@ -26,3 +26,9 @@ Con el caracter . se actualizan atomaticamente todos los archivos con cambios re
 Comando para generar commit en github
 
 ``` git commit  -m ```
+Este comando deja un comentario al comit que se esta haciendo
+
+
+``` git push ```
+
+Este comando sube los cambios a github
