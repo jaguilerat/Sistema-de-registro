@@ -42,6 +42,7 @@ Podemos ver una version a restaurar dentro del proyecto
 
 con el comando git restore -- source Hash, se puede restaurar una versión anterior de un archivo
 
+<<<<<<< HEAD
 
 ``` git branch ```
 
@@ -56,3 +57,11 @@ Crea un entorno nuevo el cual sera destinado para generar un ambiente de desarro
 ``` git restore switch main ```
 
 Comando que sirve para cambiar de ambiente dentro de la consola en github
+=======
+``` git checkout -b nombre_rama ```
+
+comando que crea una nueva rama en github
+
+
+``` git push origin desarrollo  ```
+>>>>>>> desarrollo
