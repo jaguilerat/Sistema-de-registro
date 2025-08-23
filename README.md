@@ -41,3 +41,18 @@ Podemos ver una version a restaurar dentro del proyecto
 ``` git restore --source  315059c ```
 
 con el comando git restore -- source Hash, se puede restaurar una versión anterior de un archivo
+
+
+``` git branch ```
+
+Me muestra las ramas que tiene el proyecto o los entornos de trabajo que tenemos dentro del github
+
+
+``` git checkout -b desarrollo ```
+
+Crea un entorno nuevo el cual sera destinado para generar un ambiente de desarrollo
+
+
+``` git restore switch main ```
+
+Comando que sirve para cambiar de ambiente dentro de la consola en github
