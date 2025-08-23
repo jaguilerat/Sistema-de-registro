@@ -41,3 +41,10 @@ Podemos ver una version a restaurar dentro del proyecto
 ``` git restore --source  315059c ```
 
 con el comando git restore -- source Hash, se puede restaurar una versión anterior de un archivo
+
+``` git checkout -b nombre_rama ```
+
+comando que crea una nueva rama en github
+
+
+``` git push origin desarrollo  ```
